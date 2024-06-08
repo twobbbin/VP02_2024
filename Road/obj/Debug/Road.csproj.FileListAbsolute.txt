@@ -1,0 +1,12 @@
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\bin\Debug\Road.exe.config
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\bin\Debug\Road.exe
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\bin\Debug\Road.pdb
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.csproj.AssemblyReference.cache
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.Form1.resources
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.Properties.Resources.resources
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.csproj.GenerateResource.cache
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.csproj.CoreCompileInputs.cache
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.exe
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.pdb
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.Form2.resources
+C:\Users\ds2el\OneDrive\바탕 화면\hy c\Road\Road\obj\Debug\Road.Form3.resources
