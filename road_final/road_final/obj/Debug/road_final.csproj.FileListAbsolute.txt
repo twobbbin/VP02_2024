@@ -1,0 +1,25 @@
+C:\Users\konyang\source\repos\road_final\road_final\bin\Debug\road_final.exe.config
+C:\Users\konyang\source\repos\road_final\road_final\bin\Debug\road_final.exe
+C:\Users\konyang\source\repos\road_final\road_final\bin\Debug\road_final.pdb
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.csproj.AssemblyReference.cache
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.csproj.SuggestedBindingRedirects.cache
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.Form1.resources
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.Properties.Resources.resources
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.csproj.GenerateResource.cache
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.csproj.CoreCompileInputs.cache
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.exe
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.pdb
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.form2.resources
+C:\Users\konyang\source\repos\road_final\road_final\obj\Debug\road_final.Form3.resources
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\bin\Debug\road_final.exe.config
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\bin\Debug\road_final.exe
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\bin\Debug\road_final.pdb
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.csproj.AssemblyReference.cache
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.Form1.resources
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.form2.resources
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.Form3.resources
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.Properties.Resources.resources
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.csproj.GenerateResource.cache
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.csproj.CoreCompileInputs.cache
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.exe
+C:\Users\ds2el\OneDrive\바탕 화면\road_final\road_final\obj\Debug\road_final.pdb
